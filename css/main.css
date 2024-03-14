@@ -26,7 +26,7 @@ header {
 
 #character_nav {
     background-color: #675050;
-    background-image: url(../images/characters_art_mas_mob_01.jpeg);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     background-blend-mode: multiply;
 }
@@ -67,30 +67,30 @@ header {
 .sprite {
     width: 150px;
     height: 150px;
-    background-image: url(../images/marvelSprites.jpg);
+    background-image: url(../images/pokemonSprites.jpg);
 }
 
-#carol {
+#charmander {
     background-position: -150px 0;
 }
 
-#clint {
+#squirtle {
     background-position: -300px 0;
 }
 
-#hulk {
+#pikachu {
     background-position: -450px 0;
 }
 
-#thor {
+#eeve {
     background-position: -600px 0;
 }
 
-#widow {
+#snorlax {
     background-position: -750px 0;
 }
 
-#cap:hover, #carol:hover, #clint:hover, #hulk:hover, #thor:hover, #widow:hover {
+#bulbasaur:hover, #charmander:hover, #squirtle:hover, #pikachu:hover, #eeve:hover, #snorlax:hover {
     background-position-y: 150px;
 }
 
@@ -121,7 +121,7 @@ footer {
     left: 0;
     z-index: 100;
     background-color: rgba(0, 0, 0, 0.65);
-    background-image: url(../images/Cap_LB_Bg.png);
+    background-image: url(../images/Charizard.png);
     background-repeat: no-repeat;
     background-size: 55vh;
     background-position: 40px bottom;
@@ -162,5 +162,5 @@ footer {
 }
 
 #lightbox2 {
-    background-image: url('../images/Thor_LB_Bg.png');
+    background-image: url('../images/umbreon.png');
 }
