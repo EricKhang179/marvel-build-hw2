@@ -20,11 +20,11 @@ Open the index file in your browser of choice.
 
 ## History
 
-TODO: Write history
+03/14/2024
 
 ## Credits
 
-Marco De Luca
+Gia Khang Ho
 
 ## License
 
